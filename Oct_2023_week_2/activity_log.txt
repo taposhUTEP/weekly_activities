@@ -1,0 +1,4 @@
+
+1. Read papers that use ML for attack detection for water distribution system
+2. Prepare few attack scenarios for DHALSIM
+
